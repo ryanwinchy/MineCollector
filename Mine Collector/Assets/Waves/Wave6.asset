@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d08151cf6b90b54789faca651c12c00, type: 3}
+  m_Name: Wave6
+  m_EditorClassIdentifier: 
+  spawningObjects:
+  - {fileID: 2206800842774301360, guid: dd070260654bf244c93646a7826464c3, type: 3}
+  - {fileID: 8830005103660793684, guid: fc26bf5d6735af44588a13199f421a11, type: 3}
+  - {fileID: 2206800842774301360, guid: dd070260654bf244c93646a7826464c3, type: 3}
+  - {fileID: 8830005103660793684, guid: 888c8fcc759000b4bbc2a8bbe8934276, type: 3}
+  - {fileID: 2206800842774301360, guid: 84ce74c60ac9cfd4aacd942d1be820dd, type: 3}
+  - {fileID: 8830005103660793684, guid: 888c8fcc759000b4bbc2a8bbe8934276, type: 3}
+  - {fileID: 8830005103660793684, guid: 8074576da5145b4439cb80c6acf6d6c5, type: 3}
+  - {fileID: 8830005103660793684, guid: 8074576da5145b4439cb80c6acf6d6c5, type: 3}
+  - {fileID: 8830005103660793684, guid: 8074576da5145b4439cb80c6acf6d6c5, type: 3}
+  - {fileID: 8830005103660793684, guid: 8074576da5145b4439cb80c6acf6d6c5, type: 3}
+  - {fileID: 8830005103660793684, guid: 8074576da5145b4439cb80c6acf6d6c5, type: 3}
+  - {fileID: 8830005103660793684, guid: 8074576da5145b4439cb80c6acf6d6c5, type: 3}
+  - {fileID: 8830005103660793684, guid: 8074576da5145b4439cb80c6acf6d6c5, type: 3}
+  - {fileID: 8830005103660793684, guid: 8074576da5145b4439cb80c6acf6d6c5, type: 3}
+  - {fileID: 8830005103660793684, guid: 8074576da5145b4439cb80c6acf6d6c5, type: 3}
+  - {fileID: 8830005103660793684, guid: 8074576da5145b4439cb80c6acf6d6c5, type: 3}
+  - {fileID: 2206800842774301360, guid: dd070260654bf244c93646a7826464c3, type: 3}
+  - {fileID: 2206800842774301360, guid: dd070260654bf244c93646a7826464c3, type: 3}
+  - {fileID: 8830005103660793684, guid: 888c8fcc759000b4bbc2a8bbe8934276, type: 3}
+  - {fileID: 8830005103660793684, guid: 888c8fcc759000b4bbc2a8bbe8934276, type: 3}
+  minSpawnTime: 0
+  maxSpawnTime: 2
+  howManyToSpawn: 18
+  howManyVariance: -1
